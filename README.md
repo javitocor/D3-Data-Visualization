@@ -19,7 +19,7 @@
 [![Issues][issues-shield]][issues-url] 
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
 
-# Blog-API-Express
+# D3- Data Visualization
 
 >  Different projects to visualize data from APIs using D3 library
 
